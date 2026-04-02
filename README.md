@@ -1,8 +1,7 @@
-# CGC-SCIPE AI/ML Summer Workshop 2025
+# CGC-SCIPE Workshop on Coding with LLMs in Google Colab
 
-This repository contains materials for the AI/ML Summer Workshop hosted by the Chesapeake Global Collaboratory (CGC) and SCIPE at Horn Point Laboratory, August 26–27, 2025.
-You can find the presentations and tutorials for each day in the corresponding folders.
-
+This repository contains workshop materials developed for hands-on trainings Burch Fisher as a part of the UMCES Chesapeake Global Collaboratory (CGC).
+Burch Fisher 
 ---
 ## Contacts
 Day 1 – LLM Session: For questions, please contact Burch Fisher: burch.fisher@umces.edu
