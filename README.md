@@ -1,35 +1,12 @@
-# CGC-SCIPE Workshop on Coding with LLMs in Google Colab
+# Introduction to Coding with LLMs in Google Colab
+> This 3-hour hands-on workshop will introduce participants to using Gemini and Google Colab as an AI-assisted coding environment for geospatial analysis. Through prompt engineering, attendees will learn how to guide large language models to write and refine Python code that integrates U.S. Census data with NASA Harmonized Landsat–Sentinel (HLS) NDVI imagery to explore spatial patterns in environmental justice indicators. The session emphasizes practical strategies for working interactively with LLMs to accelerate analysis, lower technical barriers, and generate reproducible, data-driven insights. 
 
-This repository contains workshop materials developed for hands-on trainings Burch Fisher as a part of the UMCES Chesapeake Global Collaboratory (CGC).
-Burch Fisher 
+> Developed by UMCES CGC-SCIPE research scientist Burch Fisher ([burch.fisher@umces.edu](mailto:burch.fisher@umces.edu)).
+
 ---
-## Contacts
-Day 1 – LLM Session: For questions, please contact Burch Fisher: burch.fisher@umces.edu
-
 > *Prompts Notebook* 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/prompts_LLM_coding_tutorial.ipynb)
 
 > *Cheat Notebook* 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/cheat_LLM_coding_tutorial.ipynb)
 
-Day 2 – ML Session: For questions, please contact Xiaoxu Guo: xguo@umces.edu
-
-Suggestions or future workshop requests: Please contact Victoria Coles: vcoles@umces.edu
-
----
-## Newsletters
-See how we’ve helped students accelerate their research:
-
-http://scipe.umces.edu/wp-content/uploads/2025/02/cgc-scipe-january-2025-newsletter.pdf
-
-http://scipe.umces.edu/wp-content/uploads/2025/07/CGC-SCIPE-July-2025-Newsletter.pdf
-
----
-## 🤝 Connect With Us
-If you think our research facilitators could help with your learning or research in any way, please reach out using this form:
-https://scipe.umces.edu/knowledge-base/#form
-
-Don’t hesitate to ask—we are always happy to help and no preparation is needed!
-We look forward to hearing from you and helping you realize your research goals!.
-
-Have a great semester! 🎓
