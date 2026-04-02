@@ -3,7 +3,6 @@
 
 > Developed by UMCES CGC-SCIPE research scientist Burch Fisher ([burch.fisher@umces.edu](mailto:burch.fisher@umces.edu)).
 
----
 > *Prompts Notebook* 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/prompts_LLM_coding_tutorial.ipynb)
 
