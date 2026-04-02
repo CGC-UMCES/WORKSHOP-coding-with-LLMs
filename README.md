@@ -7,8 +7,7 @@ This 3-hour hands-on workshop will introduce participants to using Gemini and Go
 
 ### Launch notebooks below:
 *Prompts Notebook* 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/prompts_LLM_coding_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-coding-with-LLMs/blob/main/prompts_LLM_coding_tutorial.ipynb)
 
 *Cheat Notebook* 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-CGC-SCIPE-AI-ML-2025/blob/main/Day1-LLM-Coding/cheat_LLM_coding_tutorial.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/WORKSHOP-coding-with-LLMs/blob/main/cheat_LLM_coding_tutorial.ipynb)
